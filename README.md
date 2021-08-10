@@ -1,1 +1,1 @@
-# cses-problems-set-solution
+solution cses problems set solution
